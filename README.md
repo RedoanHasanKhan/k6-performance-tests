@@ -21,7 +21,7 @@ Or download from the [official K6 website](https://k6.io/docs/getting-started/in
 
 ### 2️⃣ Clone this repository
 ```sh
-git clone https://github.com/your-username/k6-performance-test.git
+git clone https://github.com/RedoanHasanKhan/k6-performance-tests
 cd k6-performance-test
 ```
 
